@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+    // *****
+    // ****   // inverted half pyramid for n=5
+    // ***
+    // **
+    // *
+
+    int n, i, j;
+    cin >> n;
+
+    for (i = n; i >= 1; i--)
+    {
+        for (j = 1; j <= i; j++)
+        {
+            cout << "*";
+        }
+
+        cout << endl;
+    }
+
+    return 0;
+}
