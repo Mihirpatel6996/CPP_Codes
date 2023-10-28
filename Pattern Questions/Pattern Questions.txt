@@ -4,3 +4,10 @@ pattern 3 - inverted half pyramid
 pattern 4 - half pyramid after 180 degree rotation
 pattern 5 - half pyramid using numbers 
 pattern 6 - Floyd's triangle 
+pattern 7 - Butterfly pattern
+
+
+Advanced patterns
+
+pattern 8 - Inverted number pattern 
+pattern 9 - 0-1 pattern
