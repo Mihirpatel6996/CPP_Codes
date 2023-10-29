@@ -11,3 +11,5 @@ Advanced patterns
 
 pattern 8 - Inverted number pattern 
 pattern 9 - 0-1 pattern
+pattern 10 - Rhommbus pattern
+pattern 11 - Number patter
