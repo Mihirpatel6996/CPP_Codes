@@ -1,0 +1,3 @@
+problem_1 - program to check it he number is divisible by both 2 and 3 or by only one
+odd_even  - to check whether a given number is odd or even
+prime_number_1 - to check whether a number is prime or not and also using break keyword
