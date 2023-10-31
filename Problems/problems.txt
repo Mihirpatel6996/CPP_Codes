@@ -1,3 +1,7 @@
 problem_1 - program to check it he number is divisible by both 2 and 3 or by only one
 odd_even  - to check whether a given number is odd or even
 prime_number_1 - to check whether a number is prime or not and also using break keyword
+prime_number_2 - to print all the prime numbers in the given range form a to b 
+reverse_a_number - to reverse a given number 
+Armstrong_number - to check whether a given number is an armstrong number or not
+
