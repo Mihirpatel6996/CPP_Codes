@@ -1,0 +1,1 @@
+problem 1 - take array input form user and print the max and min element in the array
