@@ -1,1 +1,4 @@
 problem 1 - take array input form user and print the max and min element in the array
+problem 2 - to find the maximum element in the array
+linear_search- to search an given element linearly 
+binary_ search - to search an element by dividing the array 
