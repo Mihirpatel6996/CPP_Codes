@@ -1,0 +1,2 @@
+problem_1 - searching an element in a 2-d array  
+problem_2 - spiral printing in a 2-d array 
