@@ -13,3 +13,6 @@ pattern 8 - Inverted number pattern
 pattern 9 - 0-1 pattern
 pattern 10 - Rhommbus pattern
 pattern 11 - Number patter
+pattern 12 - Palindromic number pattern 
+pattern 13 - Star pattern 
+pattern 14 - zig-zag pattern 
