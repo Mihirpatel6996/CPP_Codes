@@ -4,4 +4,7 @@ prime_number_1 - to check whether a number is prime or not and also using break 
 prime_number_2 - to print all the prime numbers in the given range form a to b 
 reverse_a_number - to reverse a given number 
 Armstrong_number - to check whether a given number is an armstrong number or not
+Natural_numbers - to find the sum of first n natrual numbers
+pythagorean triplet - to check whether the entered numbers are pythagorean triplet or not 
+Decimal_to_binary - to convert a decimal number to binary 
 
